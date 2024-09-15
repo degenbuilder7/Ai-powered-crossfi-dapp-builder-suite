@@ -1,10 +1,10 @@
-## BNB Complete AI Powered Dapp Builder
+## CrossFI Complete AI Powered Dapp Builder
 
-# BNB Dapp Builder
+# CrossFI Dapp Builder
 
 **Tagline: Empower Your Blockchain Vision—Code or No-Code, Your Way!**
 
-Welcome to BNB Dapp Builder, your ultimate platform for crafting innovative web3 applications on the BNB ecosystem. Whether you’re a seasoned developer or a no-code enthusiast, our platform offers the perfect tools to bring your ideas to life. Build full-stack, type-safe web3 applications on CrossFI with ease and flexibility.
+Welcome to CrossFI Dapp Builder, your ultimate platform for crafting innovative web3 applications on the CrossFI ecosystem. Whether you’re a seasoned developer or a no-code enthusiast, our platform offers the perfect tools to bring your ideas to life. Build full-stack, type-safe web3 applications on CrossFI with ease and flexibility.
 
 ---
 
@@ -36,9 +36,9 @@ Welcome to BNB Dapp Builder, your ultimate platform for crafting innovative web3
 
 ### Coders
 
-1. **Install BNB Dev SDK**:
+1. **Install CrossFI Dev SDK**:
    ```bash
-   npx bnb-dev-sdk create my-bnb-app
+   npx crossfi-dev-sdk create my-crossfi-app
    ```
 
 2. **Explore the Documentation**: Dive into our comprehensive docs to make the most of the SDK features.
@@ -53,4 +53,4 @@ Welcome to BNB Dapp Builder, your ultimate platform for crafting innovative web3
 
 3. **Customize and Publish**: Use the visual editor to design your dapp. Host your application on BNB-Greenfield with a few clicks.
 
-Empower your development journey with BNB Dapp Builder. Whether you're coding from scratch or building visually, we've got the tools to make your web3 applications shine.
+Empower your development journey with CrossFI Dapp Builder. Whether you're coding from scratch or building visually, we've got the tools to make your web3 applications shine.
